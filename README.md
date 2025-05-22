@@ -1,3 +1,5 @@
+# Project description
+
 This project aims as practice for an LSTM model, that embeds the input data, and predicts an output. 
 
 The first attempt of this model was trained on the tiny Shakespeare text, with the goal of predicting the next word given a set of words. 
